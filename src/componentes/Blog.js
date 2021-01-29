@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 
 
 const Blog = () => {
-    console.log(posts[0].id);
     return (
         <div>
             <h2>Blog</h2>
